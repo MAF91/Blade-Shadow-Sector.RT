@@ -4,7 +4,7 @@
 
 شفرة عربية مخترعة، تحوّل الكلمات إلى أرقام. كل رقم يتأثر بالحرف الذي قبله (ظله)، ولا يمكن فكها بدون **المفتاح**.
 
-**الموقع:** https://maf91.github.io/Blade-Shadow-Sector.RT/
+**الموقع:** https://maf91.github.io/code-shadow_sector.RT/
 
 ---
 
